@@ -1,0 +1,6 @@
+-r common.txt
+pylint==2.6.0
+pylint-django==2.3.0
+pylama==<pylama>
+eradicate==<eradicate>
+django-querycount==0.7.0
